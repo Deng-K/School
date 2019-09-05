@@ -1,2 +1,2 @@
 # School
-School coding
+For school coding
